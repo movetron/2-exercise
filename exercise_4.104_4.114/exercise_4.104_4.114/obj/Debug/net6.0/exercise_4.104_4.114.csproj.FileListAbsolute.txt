@@ -1,0 +1,15 @@
+A:\МДК 01.01\base_alg\exercise_4.104_4.114\exercise_4.104_4.114\bin\Debug\net6.0\exercise_4.104_4.114.exe
+A:\МДК 01.01\base_alg\exercise_4.104_4.114\exercise_4.104_4.114\bin\Debug\net6.0\exercise_4.104_4.114.deps.json
+A:\МДК 01.01\base_alg\exercise_4.104_4.114\exercise_4.104_4.114\bin\Debug\net6.0\exercise_4.104_4.114.runtimeconfig.json
+A:\МДК 01.01\base_alg\exercise_4.104_4.114\exercise_4.104_4.114\bin\Debug\net6.0\exercise_4.104_4.114.dll
+A:\МДК 01.01\base_alg\exercise_4.104_4.114\exercise_4.104_4.114\bin\Debug\net6.0\exercise_4.104_4.114.pdb
+A:\МДК 01.01\base_alg\exercise_4.104_4.114\exercise_4.104_4.114\obj\Debug\net6.0\exercise_4.104_4.114.csproj.AssemblyReference.cache
+A:\МДК 01.01\base_alg\exercise_4.104_4.114\exercise_4.104_4.114\obj\Debug\net6.0\exercise_4.104_4.114.GeneratedMSBuildEditorConfig.editorconfig
+A:\МДК 01.01\base_alg\exercise_4.104_4.114\exercise_4.104_4.114\obj\Debug\net6.0\exercise_4.104_4.114.AssemblyInfoInputs.cache
+A:\МДК 01.01\base_alg\exercise_4.104_4.114\exercise_4.104_4.114\obj\Debug\net6.0\exercise_4.104_4.114.AssemblyInfo.cs
+A:\МДК 01.01\base_alg\exercise_4.104_4.114\exercise_4.104_4.114\obj\Debug\net6.0\exercise_4.104_4.114.csproj.CoreCompileInputs.cache
+A:\МДК 01.01\base_alg\exercise_4.104_4.114\exercise_4.104_4.114\obj\Debug\net6.0\exercise_4.104_4.114.dll
+A:\МДК 01.01\base_alg\exercise_4.104_4.114\exercise_4.104_4.114\obj\Debug\net6.0\refint\exercise_4.104_4.114.dll
+A:\МДК 01.01\base_alg\exercise_4.104_4.114\exercise_4.104_4.114\obj\Debug\net6.0\exercise_4.104_4.114.pdb
+A:\МДК 01.01\base_alg\exercise_4.104_4.114\exercise_4.104_4.114\obj\Debug\net6.0\exercise_4.104_4.114.genruntimeconfig.cache
+A:\МДК 01.01\base_alg\exercise_4.104_4.114\exercise_4.104_4.114\obj\Debug\net6.0\ref\exercise_4.104_4.114.dll
